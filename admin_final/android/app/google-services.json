@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1059242170790",
+    "project_id": "xsafety-57071",
+    "storage_bucket": "xsafety-57071.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059242170790:android:5bbb5ce4d2d923601d9767",
+        "android_client_info": {
+          "package_name": "com.example.admin_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwToldo8AkVw8eSdekI3zjn5eA3fihjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059242170790:android:a7b0aa2a465584731d9767",
+        "android_client_info": {
+          "package_name": "com.example.xsafety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwToldo8AkVw8eSdekI3zjn5eA3fihjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059242170790:android:c6af873588c3c0d41d9767",
+        "android_client_info": {
+          "package_name": "com.example.xsafety_secure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcwToldo8AkVw8eSdekI3zjn5eA3fihjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
